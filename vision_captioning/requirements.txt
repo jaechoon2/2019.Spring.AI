@@ -1,0 +1,6 @@
+opencv-python
+numpy
+Pillow
+openai>=1.30.0
+python-dotenv
+pyttsx3
